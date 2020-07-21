@@ -17,9 +17,9 @@ A boilerplate for a basic discord.js bot using Akairo framework
 
 ```json
 {
-  "token": "XXXXXXXXXXXXXXXXXXXXXXXX.XXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXX", // Token for the bot
-  "prefix": "!", // Prefix the bot uses
-  "owners": ["253907199489736705"], // User IDs of owners
-  "mongo_uri": "" // Mongo URI here
+  "token": "XXXXXXXXXXXXXXXXXXXXXXXX.XXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  "prefix": "!",
+  "owners": ["253907199489736705"],
+  "mongo_uri": ""
 }
 ```
